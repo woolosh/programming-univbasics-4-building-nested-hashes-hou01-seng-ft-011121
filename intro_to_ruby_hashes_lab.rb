@@ -44,7 +44,7 @@ def monopoly_with_third_tier
    
   # hash[:railroads][:names] = {}
    
-   puts hash
+  hash
 
 end
 
