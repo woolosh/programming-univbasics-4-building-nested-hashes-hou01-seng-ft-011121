@@ -21,8 +21,8 @@ def monopoly_with_second_tier
     :railroads => {}
   } 
   
-   hash[:railroads][:pieces] = 4
-   [:rent_in_dollars] = {}
+   hash[:railroads][:pieces] = 4,
+   [:rent_in_dollars] = {},
    [:names] = {}
    
    hash
